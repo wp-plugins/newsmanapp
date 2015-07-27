@@ -12,9 +12,9 @@ NewsmanApp for WordPress
 
 == Description ==
 
-NewsmanApp for WordPress allows you to place a newsletter signup form on your blog (widget), to sync your subscribers via API and to send newsletters based on the blog posts via NewsmanApp.com.
+[NewsmanApp](https://www.newsmanapp.com/ "Smart Email Service Provider - Send and track your newsletters") for WordPress allows you to place a newsletter signup form on your blog (widget), to sync your subscribers via API and to send newsletters based on the blog posts via [NewsmanApp.com](https://www.newsmanapp.com/ "Smart Email Service Provider - Send and track your newsletters").
 
-This is the easiest way to connect your Blog with NewsmanApp.com. Generate an API KEY in your NewsmanApp.com account, install this plugin and you will be able to collect and sync subscribers and to send newsletter with your blog posts. 
+This is the easiest way to connect your Blog with [NewsmanApp.com](https://www.newsmanapp.com/ "Smart Email Service Provider - Send and track your newsletters"). Generate an API KEY in your [NewsmanApp.com](https://www.newsmanapp.com/ "Smart Email Service Provider - Send and track your newsletters") account, install this plugin and you will be able to collect and sync subscribers and to send newsletter with your blog posts. 
 
 Two free templates are included in the plugin, but more can be easilly added. Generating a newsletter is extremly easy now. Set the subject, select and order which blog posts should be included in the newsletter, preview and send live.
 
@@ -25,13 +25,13 @@ The newsletter signup widget can be placed in the side column of your blog. Tran
 1. In your WordPress admin panel, go to *Plugins > New Plugin*, search for **NewsmanApp** and click "*Install now*"
 1. Alternatively, download the plugin and upload the contents of `newsmanapp.zip` to your plugins directory, which usually is `/wp-content/plugins/`.
 1. Activate the plugin
-1. Go to *Newsman > Settings* and paste your API key and User ID (you can find those in your account section in NewsmanApp - https://www.newsmanapp.com)
+1. Go to *Newsman > Settings* and paste your API key and User ID (you can find those in your account section in NewsmanApp - [https://www.newsmanapp.com](https://www.newsmanapp.com/ "Smart Email Service Provider - Send and track your newsletters"))
 
 == Frequently Asked Questions ==
 
 = Where can i find my NewsmanApp API key and User ID ? = 
 
-Login to your acccount on https://www.newsmanapp.com and go to `General Settings -> API Keys`. There is a list of generated API Keys. Generate a new API Key for the WordPress plugin.
+Login to your acccount on [https://www.newsmanapp.com](https://www.newsmanapp.com/ "Smart Email Service Provider - Send and track your newsletters") and go to `General Settings -> API Keys`. There is a list of generated API Keys. Generate a new API Key for the WordPress plugin.
 
 = How many posts can i include in the newsletter ? =
 
@@ -52,8 +52,8 @@ No upgrade yet.
 
 == Screenshots ==
 
-1. Newsman settings `/assets/wp_newsman_settings.png`
-2. Newsletter signup widget `/assets/wp_newsman_templates.png`
-3. Import Subscribers to NewsmanApp `/assets/wp_newsman_import_subscribers.png`
-4. Edit newsletter templates `/assets/wp_newsman_templates.png`
-5. Create and send a newsletter `/assets/wp_newsman_newsletter.png`
+1. Newsman settings
+2. Import Subscribers to NewsmanApp 
+3. Edit newsletter templates 
+4. Create and send a newsletter
+5. Newsletter signup widget 
