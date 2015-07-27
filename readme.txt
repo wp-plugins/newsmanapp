@@ -8,7 +8,7 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-NewsmanApp for WordPress
+NewsmanApp for WordPress - create and send newsletters from your blog posts, newsletter sign up widget and subscribers sync via API
 
 == Description ==
 
